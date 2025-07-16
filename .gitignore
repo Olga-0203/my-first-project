@@ -1,0 +1,13 @@
+
+# Playwright
+node_modules/
+dist/
+*.log
+.vs code
+.env
+/playwright-report/
+/test-results/
+
+# Playwright
+/blob-report/
+/playwright/.cache/
